@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 primera linea
+=======
+QUIUBOLE PUTOOOO
+>>>>>>> 96731db0eb8cadf69d94476c9ac81eee785a69fc
